@@ -9,7 +9,7 @@
 
 ---
 
-I build trust infrastructure, on-chain protocols, and AI systems &mdash; shipping across **Rust**, **Go**, **TypeScript**, **Solidity**, and **Python**. Solana Colosseum hackathon winner, EthGlobal finalist, Stellar Community Fund awardee, and open-source contributor to Ethereum, NestJS, OpenZeppelin, Mithril.js, and Imba.
+I build trust infrastructure, on-chain protocols, and AI systems &mdash; shipping across **Rust**, **Go**, **TypeScript**, **Solidity**, and **Python**. Solana Colosseum hackathon winner, EthGlobal finalist, SCF awardee, and open-source contributor to Ethereum, NestJS, OpenZeppelin, Mithril.js, and Imba.
 
 Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://github.com/tecmie), and [@tensorkithq](https://github.com/tensorkithq):
 
