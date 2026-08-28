@@ -70,6 +70,17 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
 
 ---
 
+## Media & mentions
+
+- 📰 ["The Rise of the AI Generalist"](http://www.abnewswire.com/pressreleases/the-rise-of-the-ai-generalist-tecmie-founder-andrew-miracle-says-exfounders-hold-the-edge-in-aidriven-workplaces_749494.html) &mdash; press feature on ex-founders in AI-driven workplaces (AB Newswire, syndicated to 380+ outlets)
+- 🌍 [Afrikathon feature — Built in Africa](https://www.builtinafrica.io/blog-post/andrew-miracle-afrikathon)
+- 📖 [ChatKJV on Techpoint Africa](https://techpoint.africa/2023/03/01/andrew-miracle-chatkjv/)
+- 🎙️ Startup Couches podcast &mdash; on [Daccred](https://share.transistor.fm/s/f6bc2499) and [ChatKJV](https://share.transistor.fm/s/60dad75c)
+- 🎓 [MEST class of 2020](https://mestafrica.medium.com/congratulations-to-the-mest-training-program-class-of-2020-df16d2ec6fa6)
+- 🎤 Talks on open source, NFTs, and entrepreneurship &mdash; [archived on my site](https://andrewmiracle.com)
+
+---
+
 ## GitHub activity
 
 ![Contribution graph](https://ghchart.rshah.org/40c463/koolamusic)
