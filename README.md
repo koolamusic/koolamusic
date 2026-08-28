@@ -1,14 +1,24 @@
-### Hi there 👋
+# Andrew Miracle
+
+**Shanghai · Nairobi · Buenos Aires** &mdash; I build trust infrastructure, on-chain protocols, and AI systems.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 - 👯 I’m looking to collaborate on AI, Web3, SAAS & Fintech Projects
 - 💬 Ask me about Entrepreneurship, Product, AI and UX
 - ⚡ Fun fact: Macaronis are better than spaghetti
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
-
 ---
 
-I build trust infrastructure, on-chain protocols, and AI systems &mdash; shipping across **Rust**, **Go**, **TypeScript**, **Solidity**, and **Python**. Solana Colosseum hackathon winner, EthGlobal finalist, SCF awardee, and open-source contributor to Ethereum, NestJS, OpenZeppelin, Mithril.js, and Imba.
+Solana Colosseum hackathon winner, EthGlobal finalist, SCF awardee, and open-source contributor to Ethereum, NestJS, OpenZeppelin, Mithril.js, and Imba.
 
 Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://github.com/tecmie), and [@tensorkithq](https://github.com/tensorkithq):
 
@@ -57,6 +67,12 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
   - [Attest Protocol][attestsite] &mdash; live [docs][attestdocs], [sandbox][attestsandbox], and [explorer][attestexplorer].
   - [andrewmiracle.com][site] &mdash; my personal site &mdash; lab notes, talks, and writing.
   - [`zettelkasten`][zettel] &mdash; building a second brain with Foam.
+
+---
+
+## GitHub activity
+
+![Contribution graph](https://ghchart.rshah.org/40c463/koolamusic)
 
 [nestjsquery]: https://github.com/doug-martin/nestjs-query
 [chakraauto]: https://github.com/koolamusic/chakra-ui-autocomplete
