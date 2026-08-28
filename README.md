@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Currently research and new business [@tecmie](https://github.com/tecmie)
 - 👯 I’m looking to collaborate on AI, Web3, SAAS & Fintech Projects
 - 💬 Ask me about Entrepreneurship, Product, AI and UX
 - ⚡ Fun fact: Macaronis are better than spaghetti
@@ -14,7 +13,10 @@ I build trust infrastructure, on-chain protocols, and AI systems &mdash; shippin
 Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://github.com/tecmie), and [@tensorkithq](https://github.com/tensorkithq):
 
 - Featured
+  - [`nestjs-query`][nestjsquery] &mdash; easy CRUD for GraphQL in NestJS.
+  - [`chakra-ui-autocomplete`][chakraauto] &mdash; an autocomplete UI utility library for Chakra UI.
   - [`awesome-imba`][imba] &mdash; a curated list of Imba frameworks, libraries, and resources.
+  - [`robinwiki`][robinwiki] &mdash; Robin knows best.
   - [`openbeam`][openbeam] &mdash; a desktop app for real-time Bible-verse detection during live sermons.
   - [`defi-asset-tracker`][defi] &mdash; a dApp to track assets and ROI across BSC, ETH, and MATIC.
   - [`attest.so`][attest] &mdash; a unified, multi-chain trust and attestation framework.
@@ -56,6 +58,9 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
   - [andrewmiracle.com][site] &mdash; my personal site &mdash; lab notes, talks, and writing.
   - [`zettelkasten`][zettel] &mdash; building a second brain with Foam.
 
+[nestjsquery]: https://github.com/doug-martin/nestjs-query
+[chakraauto]: https://github.com/koolamusic/chakra-ui-autocomplete
+[robinwiki]: https://github.com/withrobinhq/robinwiki
 [imba]: https://github.com/koolamusic/awesome-imba
 [openbeam]: https://github.com/tensorkithq/openbeam
 [defi]: https://github.com/koolamusic/defi-asset-tracker
