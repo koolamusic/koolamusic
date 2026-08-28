@@ -14,13 +14,13 @@ I build trust infrastructure, on-chain protocols, and AI systems &mdash; shippin
 Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://github.com/tecmie), and [@tensorkithq](https://github.com/tensorkithq):
 
 - Featured
-  - [`awesome-imba`][imba] &mdash; a curated list of Imba frameworks, libraries, and resources. (139★)
-  - [`openbeam`][openbeam] &mdash; a desktop app for real-time Bible-verse detection during live sermons. (21★)
-  - [`defi-asset-tracker`][defi] &mdash; a dApp to track assets and ROI across BSC, ETH, and MATIC. (16★)
-  - [`attest.so`][attest] &mdash; a unified, multi-chain trust and attestation framework. (14★)
-  - [`rettiwt.xyz`][rettiwt] &mdash; an interactive social-media simulation of believable human proxies. (14★)
-  - [`ovpn`][ovpn] &mdash; a free OpenVPN box for Linux distros. (10★)
-  - [`claudefiles`][claudefiles] &mdash; a catalog of my favourite Claude skills. (9★)
+  - [`awesome-imba`][imba] &mdash; a curated list of Imba frameworks, libraries, and resources.
+  - [`openbeam`][openbeam] &mdash; a desktop app for real-time Bible-verse detection during live sermons.
+  - [`defi-asset-tracker`][defi] &mdash; a dApp to track assets and ROI across BSC, ETH, and MATIC.
+  - [`attest.so`][attest] &mdash; a unified, multi-chain trust and attestation framework.
+  - [`rettiwt.xyz`][rettiwt] &mdash; an interactive social-media simulation of believable human proxies.
+  - [`ovpn`][ovpn] &mdash; a free OpenVPN box for Linux distros.
+  - [`claudefiles`][claudefiles] &mdash; a catalog of my favourite Claude skills.
 - Trust & attestations (Stellar/Soroban)
   - [`sorobangraph`][sorobangraph] &mdash; real-time blockchain data indexing for Soroban attestation contracts on Stellar.
   - [`soroban-attestation-resolvers`][resolvers] &mdash; attestation resolver contracts for Stellar/Soroban.
