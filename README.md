@@ -83,7 +83,7 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
 
 ## GitHub activity
 
-![Contribution graph](https://ghchart.rshah.org/40c463/koolamusic)
+![Contribution graph](https://ghchart.rshah.org/409ba5/koolamusic)
 
 [nestjsquery]: https://github.com/doug-martin/nestjs-query
 [chakraauto]: https://github.com/koolamusic/chakra-ui-autocomplete
