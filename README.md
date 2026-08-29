@@ -27,7 +27,7 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
   - [`robinwiki`][robinwiki] &mdash; Robin knows best.
   - [`openbeam`][openbeam] &mdash; a desktop app for real-time Bible-verse detection during live sermons.
   - [`defi-asset-tracker`][defi] &mdash; a dApp to track assets and ROI across BSC, ETH, and MATIC.
-  - [`attest.so`][attest] &mdash; a unified, multi-chain trust and attestation framework.
+  - [`attestprotocol`][attest] &mdash; a unified, multi-chain trust and attestation framework.
   - [`rettiwt.xyz`][rettiwt] &mdash; an interactive social-media simulation of believable human proxies.
   - [`ovpn`][ovpn] &mdash; a free OpenVPN box for Linux distros.
   - [`claudefiles`][claudefiles] &mdash; a catalog of my favourite Claude skills.
@@ -91,7 +91,7 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
 [imba]: https://github.com/koolamusic/awesome-imba
 [openbeam]: https://github.com/tensorkithq/openbeam
 [defi]: https://github.com/koolamusic/defi-asset-tracker
-[attest]: https://github.com/daccred/attest.so
+[attest]: https://github.com/daccred/attestprotocol
 [rettiwt]: https://github.com/tecmie/rettiwt.xyz
 [ovpn]: https://github.com/koolamusic/ovpn
 [claudefiles]: https://github.com/koolamusic/claudefiles
