@@ -74,7 +74,11 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
 - 🌍 [Founded Afrikathon, the largest pan-African hackathon](https://www.builtinafrica.io/blog-post/andrew-miracle-afrikathon) &mdash; 1,600 builders across 21 countries (Built in Africa)
 - 📖 [ChatKJV on Techpoint Africa](https://techpoint.africa/2023/03/01/andrew-miracle-chatkjv/)
 - 🎓 [MEST class of 2020](https://mestafrica.medium.com/congratulations-to-the-mest-training-program-class-of-2020-df16d2ec6fa6)
-- 🎤 [Talks](https://andrewmiracle.com/talks) &mdash; highlights: [Business the Open Source Way](https://andrewmiracle.com/lab/doing-business-the-open-source-way/) (Hacktoberfest 2018) and [NFTs and the Future of Decentralized Ownership](https://andrewmiracle.com/lab/nfts-and-the-future-of-decentralized-ownership/) (Developer DAO)
+- 🎤 [Winning with AI as a Startup](https://www.andrewmiracle.com/talks/africa-startup-festival-winning-with-ai-as-a-startup/) &mdash; Africa Startup Festival
+- 🎤 [Doing Business the Open Source Way](https://www.andrewmiracle.com/talks/doing-business-the-open-source-way/) &mdash; Hacktoberfest 2018
+- 🎤 [A Case Study on Open Source Economies](https://www.andrewmiracle.com/talks/a-case-study-on-opensource-economies/) &mdash; OSCA
+- 🎤 [NFTs and the Future of Decentralized Ownership](https://www.andrewmiracle.com/talks/nfts-and-the-future-of-decentralized-ownership/) &mdash; Developer DAO
+- 🗂️ [All talks](https://andrewmiracle.com/talks)
 
 ---
 
