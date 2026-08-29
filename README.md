@@ -76,9 +76,8 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
 - 🎓 [MEST class of 2020](https://mestafrica.medium.com/congratulations-to-the-mest-training-program-class-of-2020-df16d2ec6fa6)
 - 🎤 [Winning with AI as a Startup](https://www.andrewmiracle.com/talks/africa-startup-festival-winning-with-ai-as-a-startup/) &mdash; Africa Startup Festival
 - 🎤 [Doing Business the Open Source Way](https://www.andrewmiracle.com/talks/doing-business-the-open-source-way/) &mdash; Hacktoberfest 2018
-- 🎤 [A Case Study on Open Source Economies](https://www.andrewmiracle.com/talks/a-case-study-on-opensource-economies/) &mdash; OSCA
+- 🎤 [A Case Study on Open Source Economies](https://www.andrewmiracle.com/talks/a-case-study-on-opensource-economies/) &mdash; OSCA Festival
 - 🎤 [NFTs and the Future of Decentralized Ownership](https://www.andrewmiracle.com/talks/nfts-and-the-future-of-decentralized-ownership/) &mdash; Developer DAO
-- 🗂️ [All talks](https://andrewmiracle.com/talks)
 
 ---
 
