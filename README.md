@@ -120,7 +120,7 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
 [osc]: https://github.com/tecmie/osc
 [zettel]: https://github.com/koolamusic/zettelkasten
 [site]: https://andrewmiracle.com
-[attestsite]: https://attest.so
-[attestdocs]: https://docs.attest.so
+[attestsite]: https://attestprotocol.org
+[attestdocs]: https://docs.attestprotocol.org
 [attestsandbox]: https://sandbox.attest.so
 [attestexplorer]: https://stellar.attestprotocol.org
