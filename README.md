@@ -70,8 +70,8 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
 
 ## Media & mentions
 
-- 📰 ["The Rise of the AI Generalist"](https://www.openpr.com/news/4085642) &mdash; press feature on ex-founders in AI-driven workplaces (syndicated to 380+ outlets)
-- 🌍 [Afrikathon feature — Built in Africa](https://www.builtinafrica.io/blog-post/andrew-miracle-afrikathon)
+- 📰 ["The Rise of the AI Generalist"](http://investor.wedbush.com/wedbush/article/abnewswire-2025-6-27-the-rise-of-the-ai-generalist-tecmie-founder-andrew-miracle-says-ex-founders-hold-the-edge-in-ai-driven-workplaces/) &mdash; press feature on ex-founders in AI-driven workplaces (syndicated to 380+ outlets)
+- 🌍 [Founded Afrikathon, the largest pan-African hackathon](https://www.builtinafrica.io/blog-post/andrew-miracle-afrikathon) &mdash; 1,600 builders across 21 countries (Built in Africa)
 - 📖 [ChatKJV on Techpoint Africa](https://techpoint.africa/2023/03/01/andrew-miracle-chatkjv/)
 - 🎓 [MEST class of 2020](https://mestafrica.medium.com/congratulations-to-the-mest-training-program-class-of-2020-df16d2ec6fa6)
 - 🎤 [Talks](https://andrewmiracle.com/talks) &mdash; highlights: [Business the Open Source Way](https://andrewmiracle.com/lab/doing-business-the-open-source-way/) (Hacktoberfest 2018) and [NFTs and the Future of Decentralized Ownership](https://andrewmiracle.com/lab/nfts-and-the-future-of-decentralized-ownership/) (Developer DAO)
