@@ -28,7 +28,7 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
   - [`openbeam`][openbeam] &mdash; a desktop app for real-time Bible-verse detection during live sermons.
   - [`defi-asset-tracker`][defi] &mdash; a dApp to track assets and ROI across BSC, ETH, and MATIC.
   - [`attestprotocol`][attest] &mdash; a unified, multi-chain trust and attestation framework.
-  - [`rettiwt.xyz`][rettiwt] &mdash; an interactive social-media simulation of believable human proxies.
+  - [`rettiwt`][rettiwt] &mdash; an interactive social-media simulation of believable human proxies.
   - [`ovpn`][ovpn] &mdash; a free OpenVPN box for Linux distros.
   - [`claudefiles`][claudefiles] &mdash; a catalog of my favourite Claude skills.
 - Trust & attestations (Stellar/Soroban)
@@ -92,7 +92,7 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
 [openbeam]: https://github.com/tensorkithq/openbeam
 [defi]: https://github.com/koolamusic/defi-asset-tracker
 [attest]: https://github.com/daccred/attestprotocol
-[rettiwt]: https://github.com/tecmie/rettiwt.xyz
+[rettiwt]: https://github.com/tecmie/rettiwt
 [ovpn]: https://github.com/koolamusic/ovpn
 [claudefiles]: https://github.com/koolamusic/claudefiles
 [sorobangraph]: https://github.com/daccred/sorobangraph.attest.so
