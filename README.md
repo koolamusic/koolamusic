@@ -11,7 +11,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 - 👯 I’m looking to collaborate on AI, Web3, SAAS & Fintech Projects
-- 💬 Ask me about Cryptography, Product, AI & UX
+- 💬 Ask me about Cryptography, Product Strategy, AI & UX
 - ⚡ Fun fact: Macaronis are better than spaghetti
 
 ---
