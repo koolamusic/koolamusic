@@ -122,5 +122,5 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
 [site]: https://andrewmiracle.com
 [attestsite]: https://attestprotocol.org
 [attestdocs]: https://docs.attestprotocol.org
-[attestsandbox]: https://sandbox.attest.so
+[attestsandbox]: https://sandbox.attestprotocol.org
 [attestexplorer]: https://stellar.attestprotocol.org
