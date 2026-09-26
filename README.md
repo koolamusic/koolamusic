@@ -24,7 +24,7 @@ Selected work across [@daccred](https://github.com/daccred), [@tecmie](https://g
   - [`nestjs-query`][nestjsquery] &mdash; easy CRUD for GraphQL in NestJS.
   - [`chakra-ui-autocomplete`][chakraauto] &mdash; an autocomplete UI utility library for Chakra UI.
   - [`awesome-imba`][imba] &mdash; a curated list of Imba frameworks, libraries, and resources.
-  - [`robinwiki`][robinwiki] &mdash; Robin knows best.
+  - [`robinwiki`][robinwiki] &mdash; A second brain that manages itself.
   - [`openbeam`][openbeam] &mdash; a desktop app for real-time Bible-verse detection during live sermons.
   - [`defi-asset-tracker`][defi] &mdash; a dApp to track assets and ROI across BSC, ETH, and MATIC.
   - [`attestprotocol`][attest] &mdash; a unified, multi-chain trust and attestation framework.
